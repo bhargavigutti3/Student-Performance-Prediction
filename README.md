@@ -57,5 +57,3 @@ The `pass_fail` column is derived from `final_score`:
 - Model accuracy is displayed after training.  
 - Confusion matrix and classification report provide detailed insights into performance.  
 - Example prediction on a sample student shows how to use the trained model.
-
----
